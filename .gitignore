@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.eggs/
+
+# Virtualenv
+env/
+.venv/
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+/media/
+/staticfiles/
+
+# Environment
+.env
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+
+# Node
+node_modules/
+
+# Coverage
+htmlcov/
+.coverage
+
+# pyenv
+.python-version
